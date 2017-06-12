@@ -1,0 +1,14 @@
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\bin\Debug\BRNN.exe.config
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\App.g.cs
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN_MarkupCompile.cache
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN_MarkupCompile.lref
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\bin\Debug\BRNN.exe
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\bin\Debug\BRNN.pdb
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN.g.resources
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN.Properties.Resources.resources
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN.csproj.GenerateResource.Cache
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN.exe
+C:\Users\Konrad\Documents\GitHub\BRNN\BRNN\obj\Debug\BRNN.pdb
